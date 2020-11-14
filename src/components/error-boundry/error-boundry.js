@@ -3,7 +3,7 @@ import Error from '../error';
 
 export default class ErrorBoundry extends Component {
     state = {
-        error: false
+        error: false,
     }
 
     // ind_1
